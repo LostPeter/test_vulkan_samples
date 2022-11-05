@@ -1,10 +1,15 @@
 # README #
 
-Author: LostPeter
+Author: 
+    
+    LostPeter
 
-Target: Learning vulkan's basic samples !
+Target: 
+    
+    Learning vulkan's basic samples !
 
 Usage:
+    
     1> Compile Dependencies
         cd Dependencies
         cd Compile
@@ -18,6 +23,7 @@ Usage:
         Windows:    ./Build_Sample_Windows_All.bat debug
 
 Thanks:
+    
     The original VulkanTutorial's author: Alexander Overvoorde !
     Web:     https://vulkan-tutorial.com/
     GitHub:  https://github.com/Overv 
