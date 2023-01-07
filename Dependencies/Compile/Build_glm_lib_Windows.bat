@@ -1,5 +1,11 @@
-@REM author: LostPeter
-@REM time:   2022-11-05
+@REM #****************************************************************************
+@REM # test_vulkan_samples - Copyright (C) 2022 by LostPeter
+@REM # 
+@REM # Author: LostPeter
+@REM # Time:   2022-11-05
+@REM #
+@REM # This code is licensed under the MIT license (MIT) (http://opensource.org/licenses/MIT)
+@REM #****************************************************************************/
 
 set name="glm-0.9.9.8"
 

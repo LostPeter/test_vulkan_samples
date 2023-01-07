@@ -1,5 +1,11 @@
-# author: LostPeter
-# time:   2022-11-05
+#****************************************************************************
+# test_vulkan_samples - Copyright (C) 2022 by LostPeter
+# 
+# Author: LostPeter
+# Time:   2022-11-05
+#
+# This code is licensed under the MIT license (MIT) (http://opensource.org/licenses/MIT)
+#****************************************************************************/
 
 name=tinyobjloader-2.0.0
 

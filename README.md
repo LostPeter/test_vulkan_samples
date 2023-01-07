@@ -29,6 +29,11 @@ Thanks:
     GitHub:  https://github.com/Overv 
              https://github.com/Overv/VulkanTutorial
 
+License:
+
+    MIT License 
+
+
 ### <0000> test_vulkan_0000_base_code
 
 ### <0001> test_vulkan_0001_instance_creation
